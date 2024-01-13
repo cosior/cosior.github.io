@@ -13,7 +13,7 @@ As part of my PhD studies, I worked on the design and implementation of two crow
 
 - [eyeWnder](http://www.eyewnder.webredirect.org/), a new Real Time Web Advertisement Analyser.
 - [$heriff](http://sheriff-v2.dynu.net/views/home), a browser add-on for detecting price discrimination in e-commerce.
-- (NEW) [pageInspecto](https://bit.ly/2YhTI3H) is an experimental web-page analyzer/visualizer to help users and web admins to inspect third party domain inclusions.
+- (NEW) [pageInspector](https://bit.ly/pageinspector) is an experimental web-page analyzer/visualizer to help users and web admins to inspect third party domain inclusions.
 
 | Curriculum Vitae: | [![image alt ><](/images/download-pdf.png)](/papers/CV.pdf) |
 |--------------------------------------------------|------------------------------------------------------|
