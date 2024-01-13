@@ -9,10 +9,11 @@ I received a BSc. in Computer Engineering and Informatics (2013) from Cyprus Uni
 In 2015 I also received a second MSc. in Telematic Engineering from Universidad Carlos III de Madrid. 
 In 2019 I receive my PhD (-Dr. -Ing.) from the Technische Universität Berlin. 
 
-As part of my PhD studies, I worked on the design and implementation of two crowdsourced web-based distributed systems that aim to help internet users to understand how their personal data are collected and used on the internet:
+Overall, I enjoy to work on the design and implementation of different crowdsourced web-based distributed systems that aim to help internet users to understand how their personal data are collected and used on the internet:
 
 - [eyeWnder](http://www.eyewnder.webredirect.org/), a new Real Time Web Advertisement Analyser.
 - [$heriff](http://sheriff-v2.dynu.net/views/home), a browser add-on for detecting price discrimination in e-commerce.
+- [EITR](https://eitr-experiment.networks.imdea.org/), a real time system that combines a browser extension and a distributed federated learning model to identifying sensitive URLs in real-time while the user browse the web. 
 - (NEW) [pageInspector](https://bit.ly/pageinspector) is an experimental web-page analyzer/visualizer to help users and web admins to inspect third party domain inclusions.
 
 | Curriculum Vitae: | [![image alt ><](/images/download-pdf.png)](/papers/CV.pdf) |
