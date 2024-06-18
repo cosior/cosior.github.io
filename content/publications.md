@@ -7,11 +7,17 @@ type: "page"
 ![image alt <](/images/Scientific_citations_small.png) 
 This a short list of my peer-reviewed publications ordered by year. For more detailed list of my publications you can visit my [DBLP](https://dblp.dagstuhl.de/pid/155/4391.html) and my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Nxo-Yp8AAAAJ) pages.
 
-### 2023
+### 2024
+
+[**Fundamental dynamics of popularity-similarity trajectories in real networks**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.257401),
+E Papaefthymiou, C Iordanou, F Papadopoulos
+**Highlights:** Editors' Suggestion, Featured in Physics: [Strange Kinetics Shape Network Growth](https://physics.aps.org/articles/v17/96).
 
 [![image alt >](/images/download-pdf.png)](https://assets.researchsquare.com/files/rs-3379050/v1_covered_4c87e848-7d48-4819-a941-8c29956a4fd2.pdf?c=1696999524)
 [**Cybersecurity Training and Healthcare: the AERAS Approach**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nxo-Yp8AAAAJ&sortby=pubdate&citation_for_view=Nxo-Yp8AAAAJ:e5wmG9Sq2KIC),
 Fulvio Frati, Georgiana Darau, Nikolaos Salamanos, Pantelitsa Leonidou, **Costas Iordanou**, Dimitrios Plachouris, Efstratios Syrmas, Evangelos Floros, George Nikitakis, George Spanoudakis, Konstantinos Kalais, Stella Tsichlaki, Ernesto Damiani, George C Kagadis, Jihane Nazar, Michael Sirivianos
+
+### 2023
 
 [![image alt >](/images/download-pdf.png)](https://arxiv.org/pdf/2309.01675.pdf)
 [**Fundamental dynamics of popularity-similarity trajectories in real networks**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nxo-Yp8AAAAJ&sortby=pubdate&citation_for_view=Nxo-Yp8AAAAJ:R3hNpaxXUhUC),
