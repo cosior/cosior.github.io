@@ -7,6 +7,8 @@ type: "page"
 ![image alt <](/images/Scientific_citations_small.png) 
 This a short list of my peer-reviewed publications ordered by year. For more detailed list of my publications you can visit my [DBLP](https://dblp.dagstuhl.de/pid/155/4391.html) and my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Nxo-Yp8AAAAJ) pages.
 
+<!-- ### 2025 -->
+
 ### 2024
 
 [![image alt >](/images/download-pdf.png)](https://arxiv.org/pdf/2309.01675.pdf)

@@ -1,7 +1,7 @@
 ![image alt <](/images/costas_tallin_small.jpg)
 Costas Iordanou is an Assistant Professor in Network Security at the [European University Cyprus](https://euc.ac.cy). 
 Previously, he was a postdoctoral researcher at the Network Systems and Science Research Laboratory ([NetSySci](https://netsysci.cut.ac.cy/)) at Cyprus University of Technology and the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) in Germany. 
-During his PhD studies he was fully funded by an FP7 EU grant (Marie Curie, Metrics ITN program), a collaborative project with [Universidad Carlos III de Madrid](https://www.uc3m.es/), the [Technical University of Berlin](https://www.tu.berlin/en/), and [Telefonica](https://www.telefonica.com/) I + D. 
+During his PhD studies he was fully funded by an FP7 EU grant (Marie Curie, Metrics ITN program), a collaborative project with [Universidad Carlos III de Madrid](https://www.uc3m.es/), the [Technical University of Berlin](https://www.tu.berlin/en/), and [Telefonica I + D](https://www.telefonica.com/). 
 
 <!-- His research interest focuses on measuring the extent of targeted advertising taking place on the wired and wireless web, establishing causality between observed targeted advertisements and past browsing behavior, and developing tools and obfuscation techniques for preserving one’s privacy in view of the revealed targeted advertisement methods. -->
 
