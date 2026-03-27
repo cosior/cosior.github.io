@@ -7,7 +7,16 @@ type: "page"
 ![image alt <](/images/Scientific_citations_small.png) 
 This a short list of my peer-reviewed publications ordered by year. For more detailed list of my publications you can visit my [DBLP](https://dblp.dagstuhl.de/pid/155/4391.html) and my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Nxo-Yp8AAAAJ) pages.
 
-<!-- ### 2025 -->
+### 2026
+[![image alt >](/images/download-pdf.png)](https://www.scitepress.org/Papers/2026/142284/142284.pdf)
+[**A Modular GDPR Compliance Framework for Content Management Systems: Architectural Coordination and Performance Optimization in Plugin-Based Environments**](https://www.scitepress.org/PublicationsDetail.aspx?ID=3nJFtJzlcaw=&t=1),
+Panagiotis Nikolaidis and Costas Iordanou.  
+
+### 2025
+
+[![image alt >](/images/download-pdf.png)](https://link.springer.com/content/pdf/10.1007/s10207-025-01154-5.pdf)
+[**Developing cyber-resistivity maturity and scoring framework (CRMSF) for any size of organization**](https://link.springer.com/article/10.1007/s10207-025-01154-5),
+K Papachristofis, G Vardoulias, K Vavousis, C Iordanou, Y Danidou.  
 
 ### 2024
 

@@ -7,14 +7,16 @@ Throughout my career, I have contributed to a diverse range of scientific and re
 
 ### Current active projects
 
-1. [MedSecurance](/projects/medsec/)
-2. [Green-Hit](/projects/greenhit/)
+1. [RESIST](/projects/resist/)
+2. [PRESERVE](/projects/preserve/)
 
 ### Completed projects
-1. [TV-HGGs](/projects/tv-hggs/)
-2. [AERAS](/projects/aeras/)
-3. [INCOGNITO](/projects/incognito/)
-4. [ResolutioNet](/projects/resolutionet/)
-5. [PIMCity](/projects/pimcity/)
-6. [Smooth-GDPR](/projects/smooth/)
-7. [ITN METRICS](/projects/itn-metrics/)
+1. [MedSecurance](/projects/medsec/)
+2. [Green-Hit](/projects/greenhit/)
+3. [TV-HGGs](/projects/tv-hggs/)
+4. [AERAS](/projects/aeras/)
+5. [INCOGNITO](/projects/incognito/)
+6. [ResolutioNet](/projects/resolutionet/)
+7. [PIMCity](/projects/pimcity/)
+8. [Smooth-GDPR](/projects/smooth/)
+9. [ITN METRICS](/projects/itn-metrics/)
