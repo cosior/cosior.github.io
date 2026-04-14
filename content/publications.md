@@ -10,19 +10,19 @@ This a short list of my peer-reviewed publications ordered by year. For more det
 ### 2026
 [![image alt >](/images/download-pdf.png)](https://www.scitepress.org/Papers/2026/142284/142284.pdf)
 [**A Modular GDPR Compliance Framework for Content Management Systems: Architectural Coordination and Performance Optimization in Plugin-Based Environments**](https://www.scitepress.org/PublicationsDetail.aspx?ID=3nJFtJzlcaw=&t=1),
-Panagiotis Nikolaidis and Costas Iordanou.  
+Panagiotis Nikolaidis and **Costas Iordanou**.  
 
 ### 2025
 
 [![image alt >](/images/download-pdf.png)](https://link.springer.com/content/pdf/10.1007/s10207-025-01154-5.pdf)
 [**Developing cyber-resistivity maturity and scoring framework (CRMSF) for any size of organization**](https://link.springer.com/article/10.1007/s10207-025-01154-5),
-K Papachristofis, G Vardoulias, K Vavousis, C Iordanou, Y Danidou.  
+K Papachristofis, G Vardoulias, K Vavousis, **C Iordanou**, Y Danidou.  
 
 ### 2024
 
 [![image alt >](/images/download-pdf.png)](https://arxiv.org/pdf/2309.01675.pdf)
 [**Fundamental dynamics of popularity-similarity trajectories in real networks**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.257401),
-E Papaefthymiou, C Iordanou, F Papadopoulos.  
+E Papaefthymiou, **C Iordanou**, F Papadopoulos.  
 **Highlights:** Editors' Suggestion, Featured in Physics: [Strange Kinetics Shape Network Growth](https://physics.aps.org/articles/v17/96).
 
 [![image alt >](/images/download-pdf.png)](https://assets.researchsquare.com/files/rs-3379050/v1_covered_4c87e848-7d48-4819-a941-8c29956a4fd2.pdf?c=1696999524)
@@ -33,7 +33,7 @@ Fulvio Frati, Georgiana Darau, Nikolaos Salamanos, Pantelitsa Leonidou, **Costas
 
 [![image alt >](/images/download-pdf.png)](https://arxiv.org/pdf/2309.01675.pdf)
 [**Fundamental dynamics of popularity-similarity trajectories in real networks**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nxo-Yp8AAAAJ&sortby=pubdate&citation_for_view=Nxo-Yp8AAAAJ:R3hNpaxXUhUC),
-E Papaefthymiou, C Iordanou, F Papadopoulos,
+E Papaefthymiou, **C Iordanou**, F Papadopoulos,
 [https://arxiv.org/abs/2309.01675](https://arxiv.org/abs/2309.01675)
 
 [![image alt >](/images/download-pdf.png)](https://arxiv.org/pdf/2006.09938.pdf)
