@@ -37,7 +37,7 @@ pygmentsStyle = "monokai"
       _paq.push(['trackPageView']);
       _paq.push(['enableLinkTracking']);
       (function() {
-        var u="https://cosior.dynu.com/matomo/";
+        var u="https://costnet.mywire.org/matomo/";
         _paq.push(['setTrackerUrl', u+'matomo.php']);
         _paq.push(['setSiteId', '3']);
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
