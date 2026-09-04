@@ -8,9 +8,15 @@ type: "page"
 This a short list of my peer-reviewed publications ordered by year. For more detailed list of my publications you can visit my [DBLP](https://dblp.dagstuhl.de/pid/155/4391.html) and my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Nxo-Yp8AAAAJ) pages.
 
 ### 2026
+<!-- [![image alt >](/images/download-pdf.png)](/papers/Exploratory_Empirical_Validation_of_the_CRMSF.pdf)
+[**Exploratory empirical evaluation of theCyber-Resistivity Maturity and ScoringFramework (CRMSF): A multi-sector pilot study**](https://link.springer.com/article/10.1007/s10207-025-01154-5), K Papachristofis, G Vardoulias, K Vavousis, **C Iordanou**, Y Danidou.  -->
+
+[![image alt >](/images/download-pdf.png)](/papers/IoT_40_2026.pdf)
+[**Security and risk assessment of IoMT communication protocols: A data-driven analysis of real-world vulnerabilities**](https://authors.elsevier.com/c/1njLt928b9Ry-h),
+Charalampos Sergiou, **Costas Iordanou**, Konstantinos Katzis, Gregory Epiphaniou, Nabil Moukafih, Carsten Maple, Nikolaos Matragkas and Marcos Didonet del Fabro. 
+
 [![image alt >](/images/download-pdf.png)](https://www.scitepress.org/Papers/2026/142284/142284.pdf)
-[**A Modular GDPR Compliance Framework for Content Management Systems: Architectural Coordination and Performance Optimization in Plugin-Based Environments**](https://www.scitepress.org/PublicationsDetail.aspx?ID=3nJFtJzlcaw=&t=1),
-Panagiotis Nikolaidis and **Costas Iordanou**.  
+[**A Modular GDPR Compliance Framework for Content Management Systems: Architectural Coordination and Performance Optimization in Plugin-Based Environments**](https://www.scitepress.org/PublicationsDetail.aspx?ID=3nJFtJzlcaw=&t=1), Panagiotis Nikolaidis and **Costas Iordanou**. 
 
 ### 2025
 
