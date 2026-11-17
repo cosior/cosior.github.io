@@ -8,11 +8,15 @@ type: "page"
 This a short list of my peer-reviewed publications ordered by year. For more detailed list of my publications you can visit my [DBLP](https://dblp.dagstuhl.de/pid/155/4391.html) and my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Nxo-Yp8AAAAJ) pages.
 
 ### 2026
+<!-- [![image alt >](/images/download-pdf.png)](/papers/Exploratory_Empirical_Validation_of_the_CRMSF.pdf) -->
+[**Enhancing Resilience from Space: The Cyprus User Access Management to Multidomain Marketplace (CUAM3) Pilot**](https://www.academia.edu/179853124/Enhancing_Resilience_from_Space_The_Cyprus_User_Access_Management_to_Multidomain_Marketplace_CUAM3_Pilot), D. Risquez, **C. Iordanou**, A. Gountis, O. Pavlou, K. Katzis, M. Hadjitheodosiou, S. Pirio. 
+
+
 [![image alt >](/images/download-pdf.png)](/papers/Exploratory_Empirical_Validation_of_the_CRMSF.pdf)
 [**Exploratory empirical evaluation of theCyber-Resistivity Maturity and ScoringFramework (CRMSF): A multi-sector pilot study**](https://link.springer.com/article/10.1007/s10207-026-01329-8), K Papachristofis, G Vardoulias, K Vavousis, **C Iordanou**, Y Danidou. 
 
 [![image alt >](/images/download-pdf.png)](/papers/IoT_40_2026.pdf)
-[**Security and risk assessment of IoMT communication protocols: A data-driven analysis of real-world vulnerabilities**](https://authors.elsevier.com/c/1njLt928b9Ry-h),
+[**Security and risk assessment of IoMT communication protocols: A data-driven analysis of real-world vulnerabilities**](https://doi.org/10.1016/j.iot.2026.102085),
 Charalampos Sergiou, **Costas Iordanou**, Konstantinos Katzis, Gregory Epiphaniou, Nabil Moukafih, Carsten Maple, Nikolaos Matragkas and Marcos Didonet del Fabro. 
 
 [![image alt >](/images/download-pdf.png)](https://www.scitepress.org/Papers/2026/142284/142284.pdf)
